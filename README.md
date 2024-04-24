@@ -71,6 +71,7 @@ def predict_matrix(point, weights):
   print(f"Input: {np.array ([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w)}")
 ```
 <H3>OUTPUT:</H3>
+
 ![image](https://github.com/MeethaPrabhu/Ex-5--NN/assets/119401038/70fac2c1-2658-44a0-976d-2594e2ba0c7e)
 
 <H3>Result:</H3>
